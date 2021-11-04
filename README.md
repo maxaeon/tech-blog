@@ -14,7 +14,7 @@ Run the following command on your CLI to run the application:
 
 ```node server.js```
 
-
+Or access it here: https://philosophers-blog.herokuapp.com/
 
 ## Packages
 
