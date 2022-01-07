@@ -13,9 +13,6 @@ Clone the repository, navigate to the project folder on your CLI and run the fol
 Run the following command on your CLI to run the application:
 
 ```node server.js```
-
-Or access it here: https://philosophers-blog.herokuapp.com/
-
 ## Packages
 
 * express-handlebars https://www.npmjs.com/package/express-handlebars to use Handlebars.js for Views
