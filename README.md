@@ -12,6 +12,8 @@ Clone the repository, navigate to the project folder on your CLI and run the fol
 ## Usage 
 Run the following command on your CLI to run the application:
 
+See deployment in development https://philosophers-blog.herokuapp.com/
+
 ```node server.js```
 ## Packages
 
